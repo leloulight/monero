@@ -1,0 +1,8 @@
+pages:
+- Home: 'index.md'
+- User Guides:
+    - 'Test': 'user-guide/test.md'
+    - 'Test2': 'user-guide/test2.md'
+- Developer Guides:
+    - 'Test': 'developer-guide/test.md'
+    - 'Test2': 'developer-guide/test2.md'
